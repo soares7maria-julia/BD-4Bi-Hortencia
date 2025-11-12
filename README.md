@@ -1,4 +1,4 @@
-# BD-4Bi-Hortencia m32
+# BD-4Bi-Hortensia m32
 Alunas:
 Maria Julia,
 Oksane,
